@@ -18,13 +18,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhijie@pony.ai)
 
 ### About Pony.ai 🚘
-<iframe 
-src="//player.bilibili.com/player.html?aid=554194339&bvid=BV1Nv4y1A7y5&cid=724159438&page=1" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+https://user-images.githubusercontent.com/47209714/170945305-777c9062-77f6-4e33-84c4-83955e9045e9.mp4
+
