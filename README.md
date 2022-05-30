@@ -19,5 +19,5 @@
 
 Pony.ai is pursuing an ambitious vision for autonomous mobility. We aim to bring safe, sustainable, and accessible mobility to the entire world. We believe that autonomous technology can make our roads exponentially safer for travelers. Founded in late 2016, Pony.ai has been a pioneer in autonomous mobility technologies and services across the U.S. and China, spearheading public-facing Robotaxi pilots in both markets.  The company is currently valued at $8.5B and some of its major investors include Toyota, OTPP, Sequoia Capital China, and IDG Capital. Pony.ai has formed partnerships with leading OEMs including Toyota, GAC Group, FAW Group, etc.
 
-https://user-images.githubusercontent.com/47209714/170945305-777c9062-77f6-4e33-84c4-83955e9045e9.mp4
+https://user-images.githubusercontent.com/47209714/170947376-83553555-ae03-4603-800d-2a0213cee64c.mp4
 
