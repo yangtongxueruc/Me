@@ -18,11 +18,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhijie@pony.ai)
 
 ### About Pony.ai 🚘
-<video width="320" height="240" controls="controls">
-  <source src="[movie.mp4](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/mp4" />
-  <source src="[movie.ogg](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/ogg" />
-  <source src="[movie.webm](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/webm" />
-  <object data="[movie.mp4](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" width="320" height="240">
-    <embed src="[movie.swf](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" width="320" height="240" />
-  </object>
-</video>
+<video src="[视频链接](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)"></video>
