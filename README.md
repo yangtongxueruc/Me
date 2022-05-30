@@ -18,7 +18,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhijie@pony.ai)
 
 ### About Pony.ai 🚘
-[![asciicast](https://asciinema.org/a/42383.png)](https://asciinema.org/a/42383)
 <video width="320" height="240" controls="controls">
   <source src="[movie.mp4](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/mp4" />
   <source src="[movie.ogg](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/ogg" />
