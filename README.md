@@ -1,9 +1,6 @@
 ![Cover](https://s1.ax1x.com/2022/05/19/Obl61O.jpg)
 
 
-<img align="right" alt="GIF" height="160px" src="https://s1.ax1x.com/2022/05/19/ObQuIx.gif"/>
-
-
 ### Hi there 👋 
 ### This is Zhijie Yang, HR from [Pony.ai](https://pony.ai)
 
