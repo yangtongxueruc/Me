@@ -19,3 +19,11 @@
 
 ### About Pony.ai 🚘
 [![asciicast](https://asciinema.org/a/42383.png)](https://asciinema.org/a/42383)
+<video width="320" height="240" controls="controls">
+  <source src="[movie.mp4](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/mp4" />
+  <source src="[movie.ogg](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/ogg" />
+  <source src="[movie.webm](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" type="video/webm" />
+  <object data="[movie.mp4](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" width="320" height="240">
+    <embed src="[movie.swf](https://www.bilibili.com/video/BV1Nv4y1A7y5?share_source=copy_web)" width="320" height="240" />
+  </object>
+</video>
