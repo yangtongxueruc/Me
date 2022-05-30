@@ -5,7 +5,7 @@
 ### This is Zhijie Yang, HR from [Pony.ai](https://pony.ai)
 
 - 👨‍💻 I am responsible for [CN Campus Hiring](https://campus.pony.ai), including SWE, HWE and QA Engineer
-- 📚 We also hiring [Experienced SWE, HWE, QA and platform FTE](http://career.pony.ai)
+- 📚 We also hire [Experienced SWE, HWE, QA and platform FTE](http://career.pony.ai)
 - 🚀 Welcome to join us and build "Autonomous Mobility Everywhere"!
 
 ### Contact me 📝
