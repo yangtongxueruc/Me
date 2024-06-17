@@ -1,4 +1,4 @@
-![Cover](https://s1.ax1x.com/2022/05/19/Obl61O.jpg)
+![Cover](https://s21.ax1x.com/2024/06/17/pk0ArVO.jpg)
 
 
 ### Hi there 👋 
