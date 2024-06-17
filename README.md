@@ -12,7 +12,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yangtongxueruc)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhijie-yang-6b833491/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhijie@pony.ai)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyang@mhfunds.com)
 
 ### About Minghong Investment 🚘
 明汯投资于2014年在上海虹口对冲基金产业园成立，借助强大的数据挖掘、统计分析和技术研发能力，构建了覆盖全周期、多策略、多品种的量化资产管理平台。
