@@ -2,11 +2,11 @@
 
 
 ### Hi there 👋 
-### This is Zhijie Yang, HR from [Pony.ai](https://pony.ai)
+### This is Zhijie Yang, HR from [明汯投资|Minghong Investment](https://www.mhfunds.com/), a top quant investment company in China.
 
-- 👨‍💻 I am responsible for [CN Campus Hiring](https://campus.pony.ai), including SWE, HWE and QA Engineer
-- 📚 We also hire [Experienced SWE, HWE, QA and platform FTE](http://career.pony.ai)
-- 🚀 Welcome to join us and build "Autonomous Mobility Everywhere"!
+- 👨‍💻 I am responsible for [CN Campus Hiring](https://join.mhfunds.com/index), including Quant Researcher，Quant Developer，Machine Learning Researcher and Machine Learning Developer
+- 📚 We also hire [Experienced QR\QD\MLR and MLE](https://join.mhfunds.com/index)
+- 🚀 Welcome to join us and make "science creates infinite futures" happen!
 
 ### Contact me 📝
 
