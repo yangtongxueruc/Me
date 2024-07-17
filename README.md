@@ -6,7 +6,7 @@
 
 - 👨‍💻 I am responsible for the Recruitment work of Machine Learning Team, including Machine Learning Researcher and Machine Learning Developer
 - 📚 We also hire [Experienced QR\QD](https://join.mhfunds.com/index)
-- 🚀 Welcome to join us and make "science creates infinite futures" happen!
+- 🚀 Welcome to join us and make "Science Creates Infinite Futures" happen!
 
 ### Contact me 📝
 
