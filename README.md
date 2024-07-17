@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 
-### I am Yongqi Hua, HR from [明汯投资|Minghong Investment](https://www.mhfunds.com/), a leading quant investment company in China.
+### I am Yongqi Hua, HR from [明汯投资|Minghong Investment](https://www.mhfunds.com/), a leading quantitative hedge fund in China.
 
 - 👨‍💻 I am responsible for the Recruitment work of Machine Learning Team, including Machine Learning Researcher and Machine Learning Developer
 - 📚 We also hire [Experienced QR\QD](https://join.mhfunds.com/index)
