@@ -1,11 +1,10 @@
 ![Cover](https://s21.ax1x.com/2024/06/17/pk0ArVO.jpg)
 
 
-### Hi there 👋 
+### Hi 👋 
 ### I am Yongqi Hua, HR from [明汯投资|Minghong Investment](https://www.mhfunds.com/), a leading quantitative hedge fund in China.
 
-- 👨‍💻 I am responsible for the Recruitment work of Machine Learning Team, including Machine Learning Researcher and Machine Learning Developer
-- 📚 We also hire [Experienced QR\QD](https://join.mhfunds.com/index)
+- 👨‍💻 Machine Learning Team Recruiter [We are Hiring!](https://join.mhfunds.com/index)
 - 🚀 Welcome to join us and make "Science Creates Infinite Futures" happen!
 
 ### Contact me 📝
