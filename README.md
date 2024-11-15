@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 
-### I am Zhijie Yang, HR from [明汯投资|Minghong Investment](https://www.mhfunds.com/), a top quant investment company in China.
+### I am Zhijie Yang, HR from [明汯投资|Minghong Investment](https://www.mhfunds.com/), a top hedge funds in China.
 
 - 👨‍💻 I am responsible for [CN Campus Hiring](https://join.mhfunds.com/index), including Quant Researcher，Quant Developer，Machine Learning Researcher and Machine Learning Developer
 - 📚 We also hire [Experienced QR\QD\MLR and MLE](https://join.mhfunds.com/index)
